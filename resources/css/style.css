@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: black;
+    color: white;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 3.125rem;
+    padding-bottom: 2rem;
+}
+
+h1, h3 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3 {
+    color: aquamarine;
+    font-size: 1rem;
+    padding-bottom: 2rem;
+}
