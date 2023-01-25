@@ -2,7 +2,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     background-color: black;
-    color: white;
     padding: 2em;
 }
 
@@ -21,9 +20,9 @@ body {
     font-weight: 300;
 }
 
-.header--sub-header {
+.header-sub-header {
     font-size: 21px;
-    color: grey;
+    color: gray;
 }
 
 .link-cta {
