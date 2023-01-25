@@ -1,22 +1,35 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     background-color: black;
     color: white;
     padding: 2em;
 }
 
-h1 {
-    font-size: 3.125rem;
+/* HEADINGS */
+
+.header-main {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
     padding-bottom: 2rem;
 }
 
-h1, h3 {
-    margin: 0 auto;
-    text-align: center;
+.header-secondary {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
 }
 
-h3 {
-    color: aquamarine;
+.header--sub-header {
+    font-size: 21px;
+    color: grey;
+}
+
+.link-cta {
     font-size: 1rem;
-    padding-bottom: 2rem;
+    color: aquamarine;
 }
+
+/* LINKS */
+
